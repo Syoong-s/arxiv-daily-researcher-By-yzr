@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🔬 ArXiv Daily Researcher
+# 🔬 ArXiv Daily Researcher By @yzr278892
+
 
 **基于 LLM 的智能学术论文监控、筛选与深度分析系统**
 
