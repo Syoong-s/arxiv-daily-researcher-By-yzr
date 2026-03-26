@@ -4,7 +4,7 @@
   // ==================================================
   "search_settings": {
     "search_days": 7,
-    "max_results": 100,
+    "max_results": 150,
     "max_results_per_source": {}
   },
 
@@ -35,7 +35,7 @@
   "keywords": {
     "primary_keywords": {
       "weight": 1.0,
-      "keywords": []
+      "keywords": ["Gravitational lensing", "Weak gravitational lensing", "Gravitational lensing shear"]
     },
     "enable_reference_extraction": true,
     "reference_keywords_config": {
@@ -56,7 +56,7 @@
         }
       }
     },
-    "research_context": ""
+    "research_context": "My research focuses on weak gravitational lensing."
   },
 
   // ==================================================
@@ -181,7 +181,7 @@
     "mode": "mineru",
     "mineru_model_version": "pipeline",
     "poll_interval": 3,
-    "poll_timeout": 300
+    "poll_timeout": 480
   },
 
   // ==================================================
