@@ -4,7 +4,7 @@
   // ==================================================
   "search_settings": {
     "search_days": 7,
-    "max_results": 150,
+    "max_results": 100,
     "max_results_per_source": {}
   },
 
@@ -35,7 +35,7 @@
   "keywords": {
     "primary_keywords": {
       "weight": 1.0,
-      "keywords": ["Gravitational lensing", "Weak gravitational lensing", "Gravitational lensing shear"]
+      "keywords": ["Gravitational lensing", "Weak gravitational lensing", "Gravitational lensing shear", "Cosmology", "Dark matter"]
     },
     "enable_reference_extraction": true,
     "reference_keywords_config": {
