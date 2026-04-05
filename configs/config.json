@@ -35,7 +35,7 @@
   "keywords": {
     "primary_keywords": {
       "weight": 1.0,
-      "keywords": ["Gravitational lensing", "Weak gravitational lensing", "Gravitational lensing shear", "Cosmology", "Dark matter","weak lensing","large-scale structure"]
+      "keywords": ["Gravitational lensing", "Gravitational lensing shear", "Cosmology", "Dark matter","weak lensing","large-scale structure"]
     },
     "enable_reference_extraction": true,
     "reference_keywords_config": {
@@ -126,7 +126,7 @@
     "on_success": true,
     "on_failure": true,
     "attach_reports": false,
-    "top_n": 5,
+    "top_n": 6,
     "channels": {
       "email": {
         "enabled": true
